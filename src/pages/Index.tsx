@@ -1,6 +1,7 @@
 import InstitutionalHeader from "@/components/InstitutionalHeader";
 import HeroSection from "@/components/HeroSection";
 import AuthorsSection from "@/components/AuthorsSection";
+import CaracSection from "@/components/CaracSection";
 import DancesGrid from "@/components/DancesGrid";
 import Footer from "@/components/Footer";
 
@@ -10,6 +11,7 @@ const Index = () => {
       <InstitutionalHeader />
       <HeroSection />
       <AuthorsSection />
+      <CaracSection />
       <DancesGrid />
       <Footer />
     </div>
