@@ -2,7 +2,7 @@ import grupoAutores from "@/assets/grupo-autores.jpeg";
 //import grupoAutores from "@/assets/equipo.jpeg";
 
 const autores = [
-  "Reiner Velasco",
+  "Reyner Velasco",
   "Oscary Padilla",
   "Feliannys Alcalá",
   "Roxelin Atacho",
