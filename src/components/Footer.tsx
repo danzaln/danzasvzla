@@ -15,7 +15,7 @@ const Footer = () => {
           Proyecto académico — {year}
         </p>
         <p className="mt-1 text-xs opacity-60">
-          Reiner Velasco · Oscary Padilla · Feliannys Alcalá · Roxelin Atacho · Astrid Bello
+          Reyner Velasco · Oscary Padilla · Feliannys Alcalá · Roxelin Atacho · Astrid Bello
         </p>
       </div>
     </footer>
