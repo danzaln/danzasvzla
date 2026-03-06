@@ -6,7 +6,7 @@ const CaracSection = () => {
     
     <div className="text-center mb-10">
       <h2 className="font-display text-3xl font-bold text-primary">
-        Información del Proyecto
+        Información de la App-Web
       </h2>
       <div className="mx-auto mt-3 h-1 w-20 rounded-full bg-accent" />
     </div>
@@ -68,7 +68,7 @@ const CaracSection = () => {
     
     <div className="text-center mb-14">
       <h2 className="font-display text-4xl font-bold text-primary"><br></br><br></br>
-        Calendario Cultural de las Danzas Tradicionales
+        Calendario Cultural de las Danzas Tradicionales de Venezuela
       </h2>
       <p className="mt-4 text-muted-foreground max-w-2xl mx-auto">
         A lo largo del año, Venezuela celebra sus tradiciones a través de danzas 
